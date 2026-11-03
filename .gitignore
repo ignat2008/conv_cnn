@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+
+# Data and model artifacts (download them with the commands in the notebook)
+data/
+*.csv
+*.rar
+*.zip
+*.pth
+*.pt
+
+# Downloaded datasets and sample images
+MNIST/
+sample_photo.jpg
